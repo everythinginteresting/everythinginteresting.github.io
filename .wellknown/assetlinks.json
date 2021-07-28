@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "xyz.appmaker.okoeza",
+      "sha256_cert_fingerprints": ["D5:22:8B:17:87:B2:B7:24:BE:8C:51:56:F5:5F:A2:31:25:54:97:24:00:D5:08:E5:02:79:61:01:8F:58:E7:C2"]
+    }
+  }
+]
